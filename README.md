@@ -1,3 +1,21 @@
+## 2020-1-08
+
+https://superuser.com/questions/1469437/disable-auto-lock-screen-on-inactivity-ubuntu-18-04
+
+https://cmake.org/pipermail/cmake/2012-September/051904.html
+
+加入 SO 版號
+https://zh.wikibooks.org/zh-tw/CMake_%E5%85%A5%E9%96%80/%E7%A8%8B%E5%BC%8F%E5%BA%AB%E9%80%B2%E9%9A%8E%E8%AD%B0%E9%A1%8C
+
+
+
+Linux 編譯 shared library 的方法
+https://medium.com/fcamels-notes/linux-%E7%B7%A8%E8%AD%AF-shared-library-%E7%9A%84%E6%96%B9%E6%B3%95%E5%92%8C%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85-cb35844ef331
+
+
+
+
+
 
 ## 2019-12-20
 
