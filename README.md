@@ -1,3 +1,11 @@
+## 2020-1-13
+
+手把手教你如何黑掉汽车（Part 1）
+https://www.anquanke.com/post/id/106409
+
+車身電子通訊網路模擬模組 CAN BUS-F500 
+http://www.dmatek.com.tw/tn/viewproc.asp?id=1750
+
 ## 2020-1-08
 
 https://superuser.com/questions/1469437/disable-auto-lock-screen-on-inactivity-ubuntu-18-04
